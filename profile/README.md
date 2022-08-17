@@ -24,7 +24,7 @@ We love feedback and encourage everyone to reach out to us. Please join our [Git
 Thanks to the following organizations for sponsoring the development of lychee.
 
 <a href="https://corrode.dev">
-    <img src="corrode.svg" width="200" />
+    <img src="https://raw.githubusercontent.com/lycheeverse/.github/main/profile/corrode.svg" width="200" />
 </a>
 
 We are looking for more sponsors to make this Open Source project sustainable.
